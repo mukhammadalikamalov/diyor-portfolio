@@ -83,9 +83,8 @@ export const ContactUs = () => {
             <Alert
               //show={formData.show}
               variant={formData.variant}
-              className={`rounded-0 co_alert ${
-                formData.show ? "d-block" : "d-none"
-              }`}
+              className={`rounded-0 co_alert ${formData.show ? "d-block" : "d-none"
+                }`}
               onClose={() => setFormdata({ show: false })}
               dismissible
             >
@@ -101,9 +100,9 @@ export const ContactUs = () => {
               </a>
               <br />
               <br />
-              {contactConfig.hasOwnProperty("YOUR_FONE") ? (
+              {contactConfig.hasOwnProperty("YOUR_PHONE") ? (
                 <p>
-                  <strong>Phone:</strong> {contactConfig.YOUR_FONE}
+                  <strong>Phone:</strong> {contactConfig.YOUR_PHONE}
                 </p>
               ) : (
                 ""
