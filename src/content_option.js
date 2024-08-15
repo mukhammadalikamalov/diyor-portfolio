@@ -67,70 +67,18 @@ const services = [
         description: "I offer services to enhance website performance, including improving load times, optimizing images, and ensuring mobile responsiveness. My aim is to make sure your website provides a smooth and fast experience for all users."
     }
 ];
-
-
 const dataportfolio = [{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://i.postimg.cc/ZqjFT7GN/wedding-photography-5582980-1280-2.jpg", // Updated to HTTPS URL
+    description: "THE invitation for wedding",
+    link: "https://invitation-101.netlify.app/",
 },
 {
-    img: "https://picsum.photos/400/800/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-
-{
-    img: "https://picsum.photos/400/600/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/550/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    img: "https://untree.co/wp-content/uploads/2021/08/homespace-thumb-min.jpg", // Existing project image URL
+    description: "Check out my latest project: Untree Homespace.",
+    link: "https://untree-homespace2.netlify.app/",
 },
 ];
+
 
 const contactConfig = {
     YOUR_EMAIL: "diyork355@gmail.com",
