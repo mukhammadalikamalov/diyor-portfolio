@@ -77,6 +77,11 @@ const dataportfolio = [{
     description: "Check out my latest project: Untree Homespace.",
     link: "https://untree-homespace2.netlify.app/",
 },
+{
+    img: "https://avatars.mds.yandex.net/get-altay/5479384/2a0000017fb05941b4e77001e6b94b31b393/XXL_height", // Existing project image URL
+    description: "Check out my PROJECT Bellisimo",
+    link: "https://bellisimo4232.netlify.app/",
+},
 ];
 
 
